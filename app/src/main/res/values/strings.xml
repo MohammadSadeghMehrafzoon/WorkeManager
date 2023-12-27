@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WorkManager</string>
+
+    <string name="image_upload">Upload image</string>
+    <string name="text_start_download">Start Image Download</string>
+    <string name="text_query_work_info">Query Work Info</string>
+    <string name="text_upload_desc">Image Downloading Using WorkManager</string>
+    <string name="text_download_desc">Your Download with WorkManager is complete</string>
+    <plurals name="text_work_desc">
+        <item quantity="one">WorkManager completed %d task</item>
+        <item quantity="other">WorkManager completed %d tasks</item>
+    </plurals>
+</resources>
